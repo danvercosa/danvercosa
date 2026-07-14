@@ -13,9 +13,9 @@
 
 ### 🎯 Objetivo
 
-Construir projetos, aprender continuamente e conquistar minha primeira oportunidade como desenvolvedora.
+Construir projetos, aprender programação e conquistar minha primeira oportunidade na área de tecnologia.
 
-### 📌 Tecnologias
+### 💻 Tecnologias
 
 - Python
 - Git
