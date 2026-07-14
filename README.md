@@ -1,6 +1,6 @@
 # Olá! 👋
 
-## Eu sou Danela Verçosa
+## Eu sou Daniela Verçosa
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (IFPE)
 
